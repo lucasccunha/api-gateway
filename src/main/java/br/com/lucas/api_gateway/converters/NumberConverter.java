@@ -1,6 +1,5 @@
 package br.com.lucas.api_gateway.converters;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 @Component
